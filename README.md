@@ -5,19 +5,13 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
 Software engineering is the systematic application of engineering approaches to the development, operation, and maintenance of software systems. It encompasses the design, development, and management of complex software projects, aiming to produce high-quality software efficiently and effectively. Its importance lies in its ability to manage complexity, ensure reliability, and facilitate innovation in the technology industry.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
-1. Introduction of High-Level Languages: The introduction of languages like COBOL and FORTRAN in the 1950s marked a significant shift towards higher-level abstraction, making software development more accessible and efficient.
-
+1. Introduction of High-Level Languages: The introduction of languages like COBOL and FORTRAN in the 1950s marked a significant shift towards higher-level abstraction, making software development more accessible and efficient
 2. Structured Programming: The concept of structured programming in the 1960s introduced control structures like loops and conditionals, leading to more organized and maintainable code.
-
 3. Object-Oriented Programming (OOP): OOP emerged in the 1970s and revolutionized software development by encapsulating data and methods within objects, promoting modularity and reusability.
-
 List and briefly explain the phases of the Software Development Life Cycle.
-
 1. Requirements Gathering: Understanding what the software needs to do.
 2. Design: Planning the architecture and components of the software.
 3. Implementation: Writing the code.
@@ -26,7 +20,6 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Maintenance: Updating and improving the software over time.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
 Waterfall: A linear and sequential approach, where each phase depends on the deliverables of the previous one. It's suitable for well-defined projects with minimal changes expected.
 Agile: An iterative approach that emphasizes flexibility, collaboration, and customer satisfaction through continuous feedback. It's ideal for projects with evolving requirements.
 
